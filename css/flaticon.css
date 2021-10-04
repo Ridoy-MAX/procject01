@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../font/flaticon.ttf?5ad844e52ccf0d90c1b9c67cbfc60beb") format("truetype"),
+url("../font/flaticon.woff?5ad844e52ccf0d90c1b9c67cbfc60beb") format("woff"),
+url("../font/flaticon.woff2?5ad844e52ccf0d90c1b9c67cbfc60beb") format("woff2"),
+url("../font/flaticon.eot?5ad844e52ccf0d90c1b9c67cbfc60beb#iefix") format("embedded-opentype"),
+url("../font/flaticon.svg?5ad844e52ccf0d90c1b9c67cbfc60beb#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-abdominal:before {
+    content: "\f101";
+}
+.flaticon-exercise:before {
+    content: "\f102";
+}
+.flaticon-buddhist-yoga-pose:before {
+    content: "\f103";
+}
+.flaticon-jumping-rope-silhouette:before {
+    content: "\f104";
+}
+.flaticon-man-lifting-weights:before {
+    content: "\f105";
+}
+.flaticon-boxing-fighter:before {
+    content: "\f106";
+}
+.flaticon-man-exercising-back-and-legs:before {
+    content: "\f107";
+}
+.flaticon-dumbell:before {
+    content: "\f108";
+}
